@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="adsortionIsothrem.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ADSORPTIONISOTHERM">
+        <source>Adsorption Isotherm</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_KMNO4_USED">
+        <source>Volume of KMnO4 used :</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_OXALICACID">
+        <source>Oxalic acid :</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_PLOT">
+        <source>Plot</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_RESETBUTTON">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_SPEEDOFDROPS">
+        <source>Speed of drops :</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STOP">
+        <source>Stop</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITRANT">
+        <source>Titrant :</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITRATE">
+        <source>Titrate :</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TOTALVOLOFTITRATE">
+        <source>Total volume of titrate: </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_VOLWATERANDOXALIC">
+        <source>Volume of water &amp; oxalic acid :</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_WATER">
+        <source>Water :</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
