@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The change in concentration in the interfacial layers between two phases of a system by surface forces is called...",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Absorption",
+        "b": "Sorption",
+        "c": "Adsorption",
+        "d": "Occlusion"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Absorption is the bulk phenomenon, not surface-based.",
+        "b": "Sorption is a general term covering both absorption and adsorption.",
+        "c": "Correct. Adsorption is a surface phenomenon involving accumulation at interfaces.",
+        "d": "Occlusion refers to trapping, not surface accumulation."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following gases is adsorbed by charcoal?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ammonia",
+        "b": "Nitrogen",
+        "c": "Hydrogen",
+        "d": "Carbon dioxide"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Ammonia can be adsorbed, but not as efficiently as CO₂.",
+        "b": "Nitrogen is adsorbed weakly.",
+        "c": "Hydrogen has low adsorption.",
+        "d": "Correct. Carbon dioxide is readily adsorbed by charcoal."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
