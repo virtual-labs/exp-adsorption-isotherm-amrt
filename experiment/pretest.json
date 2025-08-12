@@ -34,6 +34,57 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Adsorption is accompanied by .....",
+      "answers": {
+        "a": "Decrease in temperature",
+        "b": "Decrease in enthalpy of the system",
+        "c": "Increase in enthalpy of the system",
+        "d": "All is correct"
+      },
+      "explanations": {
+        "a": "Cooling may be observed externally but not always a defining feature.",
+        "b": "Correct. Adsorption is exothermic, so enthalpy decreases.",
+        "c": "Incorrect. Enthalpy decreases, not increases.",
+        "d": "Not all options are correct."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The colouring matter which gets adsorbed on activated charcoal is called...",
+      "answers": {
+        "a": "Adsorbate",
+        "b": "Adsorber",
+        "c": "None of the above",
+        "d": "Adsorbent"
+      },
+      "explanations": {
+        "a": "Correct. Adsorbate is the substance being adsorbed.",
+        "b": "Adsorber is not a standard term in this context.",
+        "c": "Incorrect, 'adsorbate' is the correct term.",
+        "d": "Adsorbent is the surface on which adsorption happens."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Heat evolved per mole during chemisorption is in the order...",
+      "answers": {
+        "a": "10-100KJ",
+        "b": "1-10KJ",
+        "c": "40-400KJ",
+        "d": "10-40KJ"
+      },
+      "explanations": {
+        "a": "Too broad and not representative of chemisorption specifically.",
+        "b": "This range is too low for chemisorption; more typical of physisorption.",
+        "c": "Correct. Chemisorption has high heat of adsorption.",
+        "d": "Still within physisorption range."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
